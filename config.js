@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'MicroHawk',
+  name: 'Abhiram',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -20,17 +20,17 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Time to sleep!',
 
   // Weather
-  weatherKey: 'f9b9e952631581398ce41d83875db784',
+  weatherKey: 'a6ed81c2300d4273b5df0ab3faa63f2d',
   weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '12.971599',
-  defaultLongitude: '77.594566',
+  defaultLatitude: ' 9.498067',
+  defaultLongitude: '76.338844',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
