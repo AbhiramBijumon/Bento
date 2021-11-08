@@ -88,8 +88,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/microhawk',
+        name: 'Online Convert'
+        link: 'https://www.online-convert.com',
       },
       {
         name: 'WhatsApp',
@@ -97,8 +97,8 @@ const CONFIG = {
       },
       {
         name: 'Amazon',
-        link: 'https://www.amazon.in/',
-      },
+        link: 'https://www.amazon.in/',	      
+      } 
     ],
     secondList: [
       {
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://stackexchange.com/',
       },
       {
-        name: 'Information Security',
-        link: 'https://security.stackexchange.com/',
+	name: 'GoGoAnime',
+        link: 'https://gogoanime.vc/',
       },
       {
         name: 'Unix & Linux',
