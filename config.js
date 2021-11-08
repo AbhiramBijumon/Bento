@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'GitLab',
-      icon: 'gitlab',
-      link: 'https://about.gitlab.com/',
+      name: 'Linux Mint',
+      icon: 'bookmark',
+      link: 'https://linuxmint.com/',
     },
     {
       id: '6',
-      name: 'Medium',
-      icon: 'book-open',
-      link: 'https://medium.com/',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://facebook.com/',
     },
   ],
 
@@ -102,12 +102,12 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'StackOverflow',
-        link: 'https://stackoverflow.com/',
+        name: 'AnimePahe',
+        link: 'https://animepahe.org/',
       },
       {
-        name: 'AI StackExchange',
-        link: 'https://ai.stackexchange.com/',
+        name: 'StackExchange',
+        link: 'https://stackexchange.com/',
       },
       {
         name: 'Information Security',
