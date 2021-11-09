@@ -14,7 +14,7 @@ const CONFIG = {
   name: 'Abhiram',
   imageBackground: true,
   openInNewTab: true,
-  twelveHourFormat: true,
+  twelveHourFormat: false,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -29,7 +29,7 @@ const CONFIG = {
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: ' 9.498067',
+  defaultLatitude: '9.498067',
   defaultLongitude: '76.338844',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -66,7 +66,7 @@ const CONFIG = {
       id: '5',
       name: 'Linux Mint',
       icon: 'bookmark',
-      link: 'https://linuxmint.com/',
+      link: 'https://www.linuxmint.com/',
     },
     {
       id: '6',
@@ -88,8 +88,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Online Convert'
-        link: 'https://www.online-convert.com',
+        name: 'LinkedIn',
+        link: 'https://www.linkedin.com/in/microhawk',
       },
       {
         name: 'WhatsApp',
@@ -97,21 +97,21 @@ const CONFIG = {
       },
       {
         name: 'Amazon',
-        link: 'https://www.amazon.in/',	      
-      } 
+        link: 'https://www.amazon.in/',
+      },
     ],
     secondList: [
       {
         name: 'AnimePahe',
-        link: 'https://animepahe.org/',
+        link: 'https://www.animepahe.org/',
       },
       {
-        name: 'StackExchange',
-        link: 'https://stackexchange.com/',
+        name: 'GoGoAnime',
+        link: 'https://www.gogoanime.vc/',
       },
       {
-	name: 'GoGoAnime',
-        link: 'https://gogoanime.vc/',
+        name: 'Information Security',
+        link: 'https://security.stackexchange.com/',
       },
       {
         name: 'Unix & Linux',
