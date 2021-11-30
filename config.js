@@ -14,7 +14,7 @@ const CONFIG = {
   name: 'Abhiram',
   imageBackground: true,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -46,7 +46,7 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'GMail',
       icon: 'mail',
       link: 'https://gmail.com/',
     },
@@ -59,14 +59,14 @@ const CONFIG = {
     {
       id: '4',
       name: 'Reddit',
-      icon: 'bookmark',
+      icon: 'reddit',
       link: 'https://reddit.com',
     },
     {
       id: '5',
-      name: 'Linux Mint',
+      name: 'news',
       icon: 'bookmark',
-      link: 'https://www.linuxmint.com/',
+      link: 'https://news.google.co.in',
     },
     {
       id: '6',
@@ -88,8 +88,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/microhawk',
+        name: 'Manjaro',
+        link: 'https://manjaro.org',
       },
       {
         name: 'WhatsApp',
@@ -110,12 +110,12 @@ const CONFIG = {
         link: 'https://www.gogoanime.vc/',
       },
       {
-        name: 'Information Security',
-        link: 'https://security.stackexchange.com/',
+        name: 'Mangadex',
+        link: 'https://mangadex.org',
       },
       {
-        name: 'Unix & Linux',
-        link: 'https://unix.stackexchange.com/',
+        name: 'Manjaro Forum',
+        link: 'https://forum.manjaro.org',
       },
     ],
   },
